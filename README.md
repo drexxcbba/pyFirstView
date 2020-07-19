@@ -1,3 +1,3 @@
 # pyFirstView
 
-my first experience with python, this will be awesome.
+My first experience with python, this will be awesome.
