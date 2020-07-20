@@ -32,4 +32,17 @@ for l in range(w):
         else:
             dp[l][r] = 1
 
-print(dp[3][3])
+#print(dp[3][3])
+
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9]
+]
+
+print(matrix[1][2])
+
+list = [5, 6]
+list.append(3)
+#metods in list the same idea
+print(list)
